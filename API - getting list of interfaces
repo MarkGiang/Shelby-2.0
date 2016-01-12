@@ -1,0 +1,8 @@
+Method type: POST
+Header: application/json
+http://{{ip address}}:{{port}}/wae/network/modeled/entities/interface/get-all-interfaces
+{
+  "stageId" : {
+    "id" : 0
+  }
+}
