@@ -1,0 +1,8 @@
+Method type: POST
+Header: application/json
+http://{{ip address}}:{{port}}/wae/network/modeled/entities/node/get-all-nodes
+{
+  "stageId" : {
+    "id" : 0
+  }
+}
