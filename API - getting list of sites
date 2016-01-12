@@ -1,0 +1,2 @@
+Method type: GET
+http://{{ip address}}:{{port}}/wae/network/modeled/entities/site/get-all-sites
